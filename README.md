@@ -1,6 +1,6 @@
-# Javascript_Projects
+# Rock, Paper, Scissor
 
-# Using Javascript methods to Create this "Rock,Paper,Scissor" Game
+# Using Javascript methods to Create this Game
       => confirm()
       => prompt()
       => alert()
